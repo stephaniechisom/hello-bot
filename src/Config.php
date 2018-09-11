@@ -10,7 +10,7 @@ Class Config {
 
     'verifyToken' => 'example',
 
-    'accessToken' => 'EAAUfTVwnitUBAJxTMzZBJ59ZCAKz9d2QFuzX8sZBAZBcJlCtFdMh5Xb7YiEj9BL7pYiNvKdl0LtRwLqAZCfYdd30Bwg0x6oETk2ldqKgFzpSnQYndx9boB6Jlmgp2cYZCvnNwJAjRVpDahCIWrbLLbZCgGDZAcbAQQghyHu1PZCDeSSbDABiT10Oo'
+    'accessToken' => 'EAADSzOfQaZBwBAD7TL3RsVybZACI8mcDabVjoCCfn8zxmfZCT8I9B4otZBOyHembs02TJQ2fVf1HrsJ4ahI0NfscrGufW5WqWJoS0RG6C2iCzqeFN4VvIYcNt1dXeoOH3r8u1zOMPPTWhH6YuX3F9xvcRqXux7l9ZA2ZBGQoJsm07LZAnHHux7u'
 
   ];
 
